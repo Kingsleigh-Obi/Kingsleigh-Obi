@@ -1,4 +1,4 @@
-<h1 align="center">Kingsely Obiagwu</h1>
+<h1 align="center">👑 Kingsely Obiagwu</h1>
 <h3 align="center">Software Engineering </h3>
 
 <p align="center">
@@ -24,13 +24,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Kingsleigh-Obi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kingsleigh-Obi&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Kingsleigh-Obi's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kingsleigh-Obi&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Kingsleigh-Obi's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Kingsleigh-Obi&theme=radical&hide_border=true&cache_seconds=86400" alt="Kingsleigh-Obi's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Kingsleigh-Obi&theme=dark&hide_border=true&cache_seconds=86400" alt="Kingsleigh-Obi's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Kingsleigh-Obi&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kingsely Obiagwu's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Kingsleigh-Obi&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kingsely Obiagwu's GitHub Trophies" />
 </p>
+
 
 
 ## 🛠️ Languages & Tools
@@ -59,7 +60,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
 
 <p align="center">
@@ -89,6 +90,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
