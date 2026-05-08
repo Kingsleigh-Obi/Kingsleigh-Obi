@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kingsely Obiagwu</h1>
+<h1 align="center">Kingsely Obiagwu</h1>
 <h3 align="center">Software Engineering </h3>
 
 <p align="center">
