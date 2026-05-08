@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
-<h3 align="center">A Software Engineering student at APTECH computer education building Full-Stack Web Applications</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingsleigh-obi" alt="kingsleigh-obi" /></a> </p>
+<h3 align="center">A Software Engineering student at APTECH computer education</h3>
 
 - 🔭 I’m currently working on **building a responsive newsletter signup interface with HTML, CSS and JavaScript**
 
