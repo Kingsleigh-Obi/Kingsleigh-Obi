@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://canva.link/4ht55p616y0agjx" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/kingsleigh-obi/profile-asset/main/profile-banner.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently building a responsive newsletter signup interface with HTML, CSS and JavaScript
